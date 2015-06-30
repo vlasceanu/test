@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Castrol Where To Buy - Search Page - Functional Tests - Desktop" errors="0" tests="0" failures="0" time="0" timestamp="2015-06-29T16:57:46">
+</testsuite>
+<testsuite name="Castrol Where To Buy - Search Page - Functional Tests - Desktop.S01 - Verify the application initial state page" errors="0" tests="3" failures="0" time="11.911" timestamp="2015-06-29T16:57:29">
+  <testcase classname="Castrol Where To Buy - Search Page - Functional Tests - Desktop.S01 - Verify the application initial state page" name="should navigate to the application path (URL)" time="9.892"></testcase>
+  <testcase classname="Castrol Where To Buy - Search Page - Functional Tests - Desktop.S01 - Verify the application initial state page" name="should have the correct page title" time="0.726"></testcase>
+  <testcase classname="Castrol Where To Buy - Search Page - Functional Tests - Desktop.S01 - Verify the application initial state page" name="should have castrol logo displayed" time="1.288"></testcase>
+</testsuite>
+<testsuite name="Castrol Where To Buy - Search Page - Functional Tests - Desktop.S02 - Find Castrol Retailers" errors="0" tests="1" failures="0" time="5.013" timestamp="2015-06-29T16:57:41">
+  <testcase classname="Castrol Where To Buy - Search Page - Functional Tests - Desktop.S02 - Find Castrol Retailers" name="should enter the address where to search for Castrol Retailers - London" time="5.012"></testcase>
+</testsuite>
+</testsuites>
